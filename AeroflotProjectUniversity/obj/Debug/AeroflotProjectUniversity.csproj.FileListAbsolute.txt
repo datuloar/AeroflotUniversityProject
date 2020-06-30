@@ -1,0 +1,10 @@
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\bin\Debug\AeroflotProjectUniversity.exe.config
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\bin\Debug\AeroflotProjectUniversity.exe
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\bin\Debug\AeroflotProjectUniversity.pdb
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.csprojAssemblyReference.cache
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.Properties.Resources.resources
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.csproj.GenerateResource.cache
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.csproj.CoreCompileInputs.cache
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.exe
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.pdb
+C:\Users\facec\source\repos\AeroflotProjectUniversity\AeroflotProjectUniversity\obj\Debug\AeroflotProjectUniversity.AeroflotMainForm.resources
